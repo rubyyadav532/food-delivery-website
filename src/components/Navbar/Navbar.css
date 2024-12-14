@@ -107,7 +107,7 @@
 }
 
 @media (max-width: 750px) {
-    .navbar ul li{
+    .navbar-menu a{
         display: none; /* Completely hide the navbar */
     }
     
